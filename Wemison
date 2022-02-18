@@ -1,69 +1,75 @@
 #EXTM3U
-#EXTINF:-1 group-title="Entertainment",BBC ONE HD
-http://srv6.zoeweb.tv:1935/z404-live/stream/livestream.m3u8
-#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
-https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/a28b54769104da426edfb3fd196b15d7.png" group-title="CANAIS: HD", RECORDTV HD
+http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16748
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_agromais-hd_m.png" group-title="CANAIS | ABERTOS", AGROMAIS FHD
-http://trenduhd.xyz:80/sebastiana/sebastiana123/297143
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/40e4afcfd925c2e4ea83a767993ea8b0.png" group-title="CANAIS: HD", ANIMAL PLANET HD
+http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16693
 
-#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/ABERTOS/BRASIL.png" group-title="CANAIS | ABERTOS", CANAL BRASIL FHD
-http://trenduhd.xyz:80/sebastiana/sebastiana123/188858
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/3f0a25c8c94296bd1563a0ece015ad4e.png" group-title="CANAIS: HD", DISCOVERY CHANNEL HD
+http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16705
 
-#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/ABERTOS/BRASIL.png" group-title="CANAIS | ABERTOS", CANAL BRASIL FHD H265
-http://trenduhd.xyz:80/sebastiana/sebastiana123/188857
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/531a36f4089a5f65b28bedb90dc00117.png" group-title="CANAIS: HD", COMEDY CENTRAL HD+
+http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16704
 
-#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/ABERTOS/REDETV.png" group-title="CANAIS | ABERTOS", REDE TV FHD
-http://trenduhd.xyz:80/sebastiana/sebastiana123/188870
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/619b13fb4189d623b016edb8aa0250fc.png" group-title="CANAIS: HD", Star Life
+http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16721
 
-#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/ABERTOS/REDETV.png" group-title="CANAIS | ABERTOS", REDE TV FHD H265
-http://trenduhd.xyz:80/sebastiana/sebastiana123/188869
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/f86427073efd142c6d56d817ddbb556e.png" group-title="CANAIS: HD", ESPN Brasil HD+
+http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16717
 
-#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/ABERTOS/GAZETA.png" group-title="CANAIS | ABERTOS", TV GAZETA SP FHD
-http://trenduhd.xyz:80/sebastiana/sebastiana123/188875
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="CANAIS: HD", CINEMAX HD
+http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16702
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_agromais-hd_m.png" group-title="CANAIS | ABERTOS", AGROMAIS HD
-http://trenduhd.xyz:80/sebastiana/sebastiana123/297144
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/discoveryscienceb.png" group-title="CANAIS: HD", Discovery Science HD+
+http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16708
 
-#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/ABERTOS/BRASIL.png" group-title="CANAIS | ABERTOS", CANAL BRASIL HD
-http://trenduhd.xyz:80/sebastiana/sebastiana123/188859
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef3f48d2e548940db0f144817f1295a0.png" group-title="CANAIS: HD", SporTV HD+
+http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16753
 
-#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/ABERTOS/FUTURA.png" group-title="CANAIS | ABERTOS", FUTURA HD
-http://trenduhd.xyz:80/sebastiana/sebastiana123/188865
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" group-title="CANAIS: HD", Discovery World HD+
+http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16712
 
-#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/ABERTOS/REDETV.png" group-title="CANAIS | ABERTOS", REDE TV HD
-http://trenduhd.xyz:80/sebastiana/sebastiana123/188871
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/596174fc20df4264ee4fa6e2b35e5022.png" group-title="CANAIS: HD", Space HD+
+http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16750
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Marca_TV_C%C3%A2mara_-_2018.png" group-title="CANAIS | ABERTOS", TV CAMARA HD
-http://trenduhd.xyz:80/sebastiana/sebastiana123/189895
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/investigationb.png" group-title="CANAIS: HD", ID Investigao Discovery HD+
+http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16736
 
-#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/ABERTOS/CULTURA.png" group-title="CANAIS | ABERTOS", TV CULTURA HD
-http://trenduhd.xyz:80/sebastiana/sebastiana123/188880
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/7ac60ed5d6e929c81d0885b615c5fd60.png" group-title="CANAIS: HBO", HBO FAMILY HD
+http://xcui.vitvabc.xyz:8880/287994016257/287994016257/31462
 
-#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/ABERTOS/GAZETA.png" group-title="CANAIS | ABERTOS", TV GAZETA SP HD
-http://trenduhd.xyz:80/sebastiana/sebastiana123/188876
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/paramount.png" group-title="CANAIS: HD", Paramount Channel HD+
+http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16746
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_agromais-hd_m.png" group-title="CANAIS | ABERTOS", AGROMAIS SD
-http://trenduhd.xyz:80/sebastiana/sebastiana123/297145
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/c4912158d8c6eaeb95023d760f97a571.png" group-title="CANAIS: HD", TNT HD+
+http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16760
 
-#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/ABERTOS/BRASIL.png" group-title="CANAIS | ABERTOS", CANAL BRASIL SD
-http://trenduhd.xyz:80/sebastiana/sebastiana123/188861
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/discoveryturbob.png" group-title="CANAIS: HD", Discovery Turbo HD+
+http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16711
 
-#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/ABERTOS/FUTURA.png" group-title="CANAIS | ABERTOS", FUTURA SD
-http://trenduhd.xyz:80/sebastiana/sebastiana123/188866
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tntseries.png" group-title="CANAIS: HD", TNT Sies HD+
+http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16761
 
-#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/ABERTOS/REDETV.png" group-title="CANAIS | ABERTOS", REDE TV SD
-http://trenduhd.xyz:80/sebastiana/sebastiana123/188873
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/25fa91858b069b1652a8c0954a90ce60.png" group-title="CANAIS: HD", H2 HD+
+http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16733
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tv-brasil-logo-BE5EF45E1A-seeklogo.com.gif" group-title="CANAIS | ABERTOS", TV BRASIL SD
-http://trenduhd.xyz:80/sebastiana/sebastiana123/282457
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/470b190de1ef11c136ccfacdec1b6017.png" group-title="CANAIS: HD", AXN HD+
+http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16695
 
-#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/ABERTOS/CULTURA.png" group-title="CANAIS | ABERTOS", TV CULTURA SD
-http://trenduhd.xyz:80/sebastiana/sebastiana123/188882
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="CANAIS: HD", SBT SP HD+
+http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16749
 
-#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/ABERTOS/GAZETA.png" group-title="CANAIS | ABERTOS", TV GAZETA SP SD
-http://trenduhd.xyz:80/sebastiana/sebastiana123/188878
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/cc47870e439055bfefe058a7ce35d4c2.png" group-title="CANAIS: HD", Globo SP HD+
+http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16730
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tv-senado-logo-EAED558180-seeklogo.com.gif" group-title="CANAIS | ABERTOS", TV SENADO SD
-http://trenduhd.xyz:80/sebastiana/sebastiana123/208023
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sony.png" group-title="CANAIS: HD", Canal Sony HD+
+http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16700
 
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/2207378837d00a6c521ef03245443607.png" group-title="CANAIS: FILMES E SERIES", MEGAPIX HD
+http://xcui.vitvabc.xyz:8880/287994016257/287994016257/31279
+
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/combate.png" group-title="CANAIS: HD", Combate HD+
+http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16703
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/10a8c26b1a68f70a0dc5d4bead2581b9.png" group-title="CANAIS: HBO", HBO 2 HD
+http://xcui.vitvabc.xyz:8880/287994016257/287994016257/31460
