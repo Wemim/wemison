@@ -1,5 +1,69 @@
 #EXTM3U
 #EXTINF:-1 group-title="Entertainment",BBC ONE HD
 http://srv6.zoeweb.tv:1935/z404-live/stream/livestream.m3u8
-#EXTINF:-1 group-title="Entertainment",SBT HD
-https://www.youtube.com/channel/UCcDerngKTEU5ryjMS-ThLbg/live
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_agromais-hd_m.png" group-title="CANAIS | ABERTOS", AGROMAIS FHD
+http://trenduhd.xyz:80/sebastiana/sebastiana123/297143
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/ABERTOS/BRASIL.png" group-title="CANAIS | ABERTOS", CANAL BRASIL FHD
+http://trenduhd.xyz:80/sebastiana/sebastiana123/188858
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/ABERTOS/BRASIL.png" group-title="CANAIS | ABERTOS", CANAL BRASIL FHD H265
+http://trenduhd.xyz:80/sebastiana/sebastiana123/188857
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/ABERTOS/REDETV.png" group-title="CANAIS | ABERTOS", REDE TV FHD
+http://trenduhd.xyz:80/sebastiana/sebastiana123/188870
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/ABERTOS/REDETV.png" group-title="CANAIS | ABERTOS", REDE TV FHD H265
+http://trenduhd.xyz:80/sebastiana/sebastiana123/188869
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/ABERTOS/GAZETA.png" group-title="CANAIS | ABERTOS", TV GAZETA SP FHD
+http://trenduhd.xyz:80/sebastiana/sebastiana123/188875
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_agromais-hd_m.png" group-title="CANAIS | ABERTOS", AGROMAIS HD
+http://trenduhd.xyz:80/sebastiana/sebastiana123/297144
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/ABERTOS/BRASIL.png" group-title="CANAIS | ABERTOS", CANAL BRASIL HD
+http://trenduhd.xyz:80/sebastiana/sebastiana123/188859
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/ABERTOS/FUTURA.png" group-title="CANAIS | ABERTOS", FUTURA HD
+http://trenduhd.xyz:80/sebastiana/sebastiana123/188865
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/ABERTOS/REDETV.png" group-title="CANAIS | ABERTOS", REDE TV HD
+http://trenduhd.xyz:80/sebastiana/sebastiana123/188871
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Marca_TV_C%C3%A2mara_-_2018.png" group-title="CANAIS | ABERTOS", TV CAMARA HD
+http://trenduhd.xyz:80/sebastiana/sebastiana123/189895
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/ABERTOS/CULTURA.png" group-title="CANAIS | ABERTOS", TV CULTURA HD
+http://trenduhd.xyz:80/sebastiana/sebastiana123/188880
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/ABERTOS/GAZETA.png" group-title="CANAIS | ABERTOS", TV GAZETA SP HD
+http://trenduhd.xyz:80/sebastiana/sebastiana123/188876
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_agromais-hd_m.png" group-title="CANAIS | ABERTOS", AGROMAIS SD
+http://trenduhd.xyz:80/sebastiana/sebastiana123/297145
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/ABERTOS/BRASIL.png" group-title="CANAIS | ABERTOS", CANAL BRASIL SD
+http://trenduhd.xyz:80/sebastiana/sebastiana123/188861
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/ABERTOS/FUTURA.png" group-title="CANAIS | ABERTOS", FUTURA SD
+http://trenduhd.xyz:80/sebastiana/sebastiana123/188866
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/ABERTOS/REDETV.png" group-title="CANAIS | ABERTOS", REDE TV SD
+http://trenduhd.xyz:80/sebastiana/sebastiana123/188873
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tv-brasil-logo-BE5EF45E1A-seeklogo.com.gif" group-title="CANAIS | ABERTOS", TV BRASIL SD
+http://trenduhd.xyz:80/sebastiana/sebastiana123/282457
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/ABERTOS/CULTURA.png" group-title="CANAIS | ABERTOS", TV CULTURA SD
+http://trenduhd.xyz:80/sebastiana/sebastiana123/188882
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/ABERTOS/GAZETA.png" group-title="CANAIS | ABERTOS", TV GAZETA SP SD
+http://trenduhd.xyz:80/sebastiana/sebastiana123/188878
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tv-senado-logo-EAED558180-seeklogo.com.gif" group-title="CANAIS | ABERTOS", TV SENADO SD
+http://trenduhd.xyz:80/sebastiana/sebastiana123/208023
+
