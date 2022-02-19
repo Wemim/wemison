@@ -2,30 +2,6 @@
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais", SBT - PE | CARUARÚ
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QbosxSO.png" group-title="Canais", TV DIARIO
-http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oNpqaxy.png?1" group-title="Canais", TVE BRASIL
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Agw8tsJ.png" group-title="Canais", TV EDUCATIVA
-http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Agw8tsJ.png" group-title="Canais", TV EDUCATIVA
-http://rbc.directradios.com:1935/rbc/rbc_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VlHeBLa.png?1" group-title="Canais", CAT TVE
-http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l0djS0R.png?1" group-title="Canais", TV ESCOLA
-http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l0djS0R.png?1" group-title="Canais", TV ESCOLA
-http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream2/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kESeqRG.png" group-title="Canais", TV AMAZON SAT
-http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
-
 
 
 
