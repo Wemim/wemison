@@ -1,106 +1,33 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/a28b54769104da426edfb3fd196b15d7.png" group-title="CANAIS: HD", RECORDTV HD
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16748
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais", SBT - PE | CARUARÚ
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/40e4afcfd925c2e4ea83a767993ea8b0.png" group-title="CANAIS: HD", ANIMAL PLANET HD
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16693
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QbosxSO.png" group-title="Canais", TV DIARIO
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/3f0a25c8c94296bd1563a0ece015ad4e.png" group-title="CANAIS: HD", DISCOVERY CHANNEL HD
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16705
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oNpqaxy.png?1" group-title="Canais", TVE BRASIL
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/531a36f4089a5f65b28bedb90dc00117.png" group-title="CANAIS: HD", COMEDY CENTRAL HD+
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16704
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Agw8tsJ.png" group-title="Canais", TV EDUCATIVA
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/619b13fb4189d623b016edb8aa0250fc.png" group-title="CANAIS: HD", Star Life
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16721
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Agw8tsJ.png" group-title="Canais", TV EDUCATIVA
+http://rbc.directradios.com:1935/rbc/rbc_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/f86427073efd142c6d56d817ddbb556e.png" group-title="CANAIS: HD", ESPN Brasil HD+
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16717
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VlHeBLa.png?1" group-title="Canais", CAT TVE
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8
 
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="CANAIS: HD", CINEMAX HD
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16702
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l0djS0R.png?1" group-title="Canais", TV ESCOLA
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/discoveryscienceb.png" group-title="CANAIS: HD", Discovery Science HD+
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16708
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l0djS0R.png?1" group-title="Canais", TV ESCOLA
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream2/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef3f48d2e548940db0f144817f1295a0.png" group-title="CANAIS: HD", SporTV HD+
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16753
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kESeqRG.png" group-title="Canais", TV AMAZON SAT
+http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" group-title="CANAIS: HD", Discovery World HD+
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16712
 
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/596174fc20df4264ee4fa6e2b35e5022.png" group-title="CANAIS: HD", Space HD+
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16750
 
-#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/investigationb.png" group-title="CANAIS: HD", ID Investigao Discovery HD+
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16736
 
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/7ac60ed5d6e929c81d0885b615c5fd60.png" group-title="CANAIS: HBO", HBO FAMILY HD
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/31462
 
-#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/paramount.png" group-title="CANAIS: HD", Paramount Channel HD+
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16746
-
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/c4912158d8c6eaeb95023d760f97a571.png" group-title="CANAIS: HD", TNT HD+
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16760
-
-#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/discoveryturbob.png" group-title="CANAIS: HD", Discovery Turbo HD+
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16711
-
-#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tntseries.png" group-title="CANAIS: HD", TNT Sies HD+
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16761
-
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/25fa91858b069b1652a8c0954a90ce60.png" group-title="CANAIS: HD", H2 HD+
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16733
-
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/470b190de1ef11c136ccfacdec1b6017.png" group-title="CANAIS: HD", AXN HD+
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16695
-
-#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="CANAIS: HD", SBT SP HD+
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16749
-
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/cc47870e439055bfefe058a7ce35d4c2.png" group-title="CANAIS: HD", Globo SP HD+
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16730
-
-#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sony.png" group-title="CANAIS: HD", Canal Sony HD+
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16700
-
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/2207378837d00a6c521ef03245443607.png" group-title="CANAIS: FILMES E SERIES", MEGAPIX HD
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/31279
-
-#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/combate.png" group-title="CANAIS: HD", Combate HD+
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16703
-
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/10a8c26b1a68f70a0dc5d4bead2581b9.png" group-title="CANAIS: HBO", HBO 2 HD
-http://xcui.vitvabc.xyz:8880/287994016257/287994016257/31460
-
-#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/2d3f665b4bc3ccc786fe3ad4419c5865.png" group-title="BBB 2022", BBB MOSAICO
-http://main.webhostingtoto.xyz:2095/NEW_LIVE5586763541/6244594799/981
-
-#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/2d3f665b4bc3ccc786fe3ad4419c5865.png" group-title="BBB 2022", BBB PRINCIPAL
-http://main.webhostingtoto.xyz:2095/NEW_LIVE5586763541/6244594799/982
-
-#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/2d3f665b4bc3ccc786fe3ad4419c5865.png" group-title="BBB 2022", CAMERA 02
-http://main.webhostingtoto.xyz:2095/NEW_LIVE5586763541/6244594799/971
-
-#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/2d3f665b4bc3ccc786fe3ad4419c5865.png" group-title="BBB 2022", CAMERA 04 PISCINA
-http://main.webhostingtoto.xyz:2095/NEW_LIVE5586763541/6244594799/973
-
-#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/2d3f665b4bc3ccc786fe3ad4419c5865.png" group-title="BBB 2022", CAMERA 05 JARDIM
-http://main.webhostingtoto.xyz:2095/NEW_LIVE5586763541/6244594799/974
-
-#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/2d3f665b4bc3ccc786fe3ad4419c5865.png" group-title="BBB 2022", CAMERA 06 CHUVEIRO
-http://main.webhostingtoto.xyz:2095/NEW_LIVE5586763541/6244594799/975
-
-#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/2d3f665b4bc3ccc786fe3ad4419c5865.png" group-title="BBB 2022", CAMERA 07 ACADEMIA
-http://main.webhostingtoto.xyz:2095/NEW_LIVE5586763541/6244594799/976
-
-#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/2d3f665b4bc3ccc786fe3ad4419c5865.png" group-title="BBB 2022", CAMERA 08 SALA
-http://main.webhostingtoto.xyz:2095/NEW_LIVE5586763541/6244594799/977
-
-#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/2d3f665b4bc3ccc786fe3ad4419c5865.png" group-title="BBB 2022", CAMERA 09 QUARTO GRUNGE
-http://main.webhostingtoto.xyz:2095/NEW_LIVE5586763541/6244594799/978
-
-#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/2d3f665b4bc3ccc786fe3ad4419c5865.png" group-title="BBB 2022", CAMERA 10 COZINHA
-http://main.webhostingtoto.xyz:2095/NEW_LIVE5586763541/6244594799/979
-
+Teste
