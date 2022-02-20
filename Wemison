@@ -202,48 +202,332 @@ Alternativa 3
 
 
 
-#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/BBB.JPG" group-title="Reality", BBB 22 HD
-http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/8205
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/max_br.jpg" group-title="FHD", HBO MUNDI FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/4741
 
-#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/BBB.JPG" group-title="Reality", BBB 22 CAMERA 2 HD
-http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/8206
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/tv_justica.jpg" group-title="Publico", TV JUSTICA FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/4603
 
-#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/BBB.JPG" group-title="Reality", BBB 22 SD
-http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/8207
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/ae_br.jpg" group-title="FHD", A&E FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5795
 
-#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/BBB.JPG" group-title="Reality", BBB 22 CAMERA 1 HD
-http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/8208
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/animal_planet_br.jpg" group-title="FHD", ANIMAL PLANET FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5793
 
-#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/BBB.JPG" group-title="Reality", BBB MOSAICO HD
-http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/8211
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/axn_este.jpg" group-title="FHD", AXN FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5792
 
-#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/BBB.JPG" group-title="Reality", BBB 22 CAMERA 3 HD
-http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/8228
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/band_manaus.jpg" group-title="FHD", BAND FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5791
 
-#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/BBB.JPG" group-title="Reality", BBB 22 CAMERA 4 HD
-http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/8229
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/band_news%20%281%29.jpg" group-title="FHD", BAND NEWS FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5790
 
-#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/BBB.JPG" group-title="Reality", BBB 22 CAMERA 5 HD
-http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/8230
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/band_sports.jpg" group-title="FHD", BAND SPORTS FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5788
 
-#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/BBB.JPG" group-title="Reality", BBB 22 CAMERA 6 HD
-http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/8231
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/bis_br.jpg" group-title="FHD", BIS FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5787
 
-#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/BBB.JPG" group-title="Reality", BBB 22 CAMERA 7 HD
-http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/8232
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/boomerang_br.jpg" group-title="FHD", BOOMERANG FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5785
 
-#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/BBB.JPG" group-title="Reality", BBB 22 CAMERA 8 HD
-http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/8233
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/cartoon_network_br.jpg" group-title="FHD", CARTOON NETWORK FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5781
 
-#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/BBB.JPG" group-title="Reality", BBB 22 CAMERA 9 HD
-http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/8234
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/cinemax_br.jpg" group-title="FHD", CINEMAX FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5780
 
-#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/BBB.JPG" group-title="Reality", BBB 22 CAMERA 10 HD
-http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/8235
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/COMBATE.jpg" group-title="FHD", COMBATE FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5779
 
-#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/BBB.JPG" group-title="Reality", BBB 22 CAMERA 11 HD
-http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/8236
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/comedy_central_br.jpg" group-title="FHD", COMEDY CENTRAL FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5778
 
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/discovery_br.jpg" group-title="FHD", DISCOVERY CHANNEL FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5776
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/discovery_home_health_br.jpg" group-title="FHD", DISCOVERY H&H FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5774
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/investigation_discovery_br.jpg" group-title="FHD", DISCOVERY ID FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5773
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/discovery_kids_br.jpg" group-title="FHD", DISCOVERY KIDS FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5772
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/DISCOVERYSCIENCE.jpg" group-title="FHD", DISCOVERY SCIENCE FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5771
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/DISCOVERYTHEATHER.jpg" group-title="FHD", DISCOVERY THEATER FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5770
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/discovery_turbo_lam.jpg" group-title="FHD", DISCOVERY TURBO FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5769
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/DISCOVERYWORLD.jpg" group-title="FHD", DISCOVERY WORLD FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5768
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/disney_channel_br.jpg" group-title="FHD", DISNEY CHANNEL FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5767
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/disney_junior_br.jpg" group-title="FHD", DISNEY JR FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5766
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/ESPN2.jpg" group-title="FHD", ESPN 2 FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5765
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/NEWESPNBRASIL.JPG" group-title="FHD", ESPN BRASIL FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5764
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/ESPNEXTRA.jpg" group-title="FHD", ESPN Extra FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5763
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/espn_br.jpg" group-title="FHD", ESPN FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5762
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/FOODNETWORK.jpg" group-title="FHD", FOOD NETWORK FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5760
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/canal_fox_br.jpg" group-title="FHD", FOX FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5759
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/fox_life_br.jpg" group-title="FHD", FOX LIFE FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5758
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/FOXSPORTS2SD.jpg" group-title="FHD", FOX SPORTS 2 FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5755
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/FOXSPORTSSD.jpg" group-title="FHD", FOX SPORTS FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5754
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/fx_br.jpg" group-title="FHD", FX FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5752
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/rede_globo.jpg" group-title="FHD", Globo Brasilia FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5750
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/rede_globo.jpg" group-title="FHD", Globo Minas FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5744
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/globo_news.jpg" group-title="FHD", GLOBO NEWS FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5743
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/rede_globo.jpg" group-title="FHD", GLOBO NORDESTE FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5742
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/rede_globo.jpg" group-title="FHD", GLOBO RBS FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5737
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/rede_globo.jpg" group-title="FHD", GLOBO RIO FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5735
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/rede_globo.jpg" group-title="FHD", Globo RPC Curitiba FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5734
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/rede_globo.jpg" group-title="FHD", GLOBO SP FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5732
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/rede_globo.jpg" group-title="FHD", GLOBO TV BAHIA FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5731
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/rede_globo.jpg" group-title="FHD", Globo TV Sergipe FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5730
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/rede_globo.jpg" group-title="FHD", Globo Verdes Mares FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5728
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/hbo.jpg" group-title="FHD", HBO FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5724
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/hbo_plus_br.jpg" group-title="FHD", HBO PLUS FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5723
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/hbo_signature_br.jpg" group-title="FHD", HBO SIGNATURE FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5722
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/HBO2.jpg" group-title="FHD", HBO2 FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5721
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/HGTV.JPG" group-title="FHD", HGTV FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5720
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/history_br.jpg" group-title="FHD", HISTORY 2 FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5719
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/LIFETIME.jpg" group-title="FHD", LIFETIME FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5718
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/megapix.jpg" group-title="FHD", MEGAPIX FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5714
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/mtv_brasil.jpg" group-title="FHD", MTV FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5713
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/multishow.jpg" group-title="FHD", MULTISHOW FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5712
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/NATGEOSD.jpg" group-title="FHD", NATGEO FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5711
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/NATGEOKIDS.jpg" group-title="FHD", NATGEO KIDS FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5710
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/NATGEOWILD.jpg" group-title="FHD", NATGEO WILD FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5709
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/nickelodeon_br.jpg" group-title="FHD", NICK JR FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5708
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/PARAMOUNT.jpg" group-title="FHD", PARAMOUNT FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5706
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/premiere_futebol_clube.jpg" group-title="FHD", PREMIERE CLUBES FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5699
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/rede_record_news_sudeste.jpg" group-title="FHD", RECORD NEWS FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5695
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/rede_record_africa.jpg" group-title="FHD", RECORD SP FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5692
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/rede_brasil.jpg" group-title="FHD", REDE BRASIL
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5690
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/SONYHD.jpg" group-title="FHD", SONY FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5684
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/space_lam_hd.jpg" group-title="FHD", SPACE FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5683
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/sportv_br.jpg" group-title="FHD", SPORTV FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5682
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/sportv2_br.jpg" group-title="FHD", SPORTV2 FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5681
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/sportv3_br.jpg" group-title="FHD", SPORTV3 FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5680
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/studio_universal_br.jpg" group-title="FHD", STUDIO UNIVERSAL FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5679
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/SYFYHD.jpg" group-title="FHD", SYFY FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5678
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/telecine_action.jpg" group-title="FHD", TELECINE ACTION FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5677
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/telecine_cult.jpg" group-title="FHD", TELECINE CULT FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5676
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/telecine_pipoca.jpg" group-title="FHD", TELECINE PIPOCA FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5675
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/telecine_premium.jpg" group-title="FHD", TELECINE PREMIUM FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5674
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/telecine_touch.jpg" group-title="FHD", TELECINE TOUCH FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5673
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/tnt_br.jpg" group-title="FHD", TNT FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5671
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/TNTSERIES.jpg" group-title="FHD", TNT SERIES FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5670
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/tru_tv_br.jpg" group-title="FHD", TruTV FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5669
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/universal_channel_br.jpg" group-title="FHD", UNIVERSAL CHANNEL FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5662
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/canal_viva_br.jpg" group-title="FHD", Viva FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5661
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/warner_channel_br.jpg" group-title="FHD", WARNER CHANNEL FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/5660
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/E%21.JPG" group-title="FHD", E! FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/7511
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/rede_globo.jpg" group-title="FHD", GLOBO CENTRO AMERICA FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/7470
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/rede_globo.jpg" group-title="FHD", GLOBO NSC FLORIPA FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/7513
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/rede_globo.jpg" group-title="FHD", GLOBO RBS TV POA FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/7453
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/rede_globo.jpg" group-title="FHD", GLOBO RJ FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/7452
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/rede_globo.jpg" group-title="FHD", GLOBO RPC PARANAESE FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/7469
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/rede_globo.jpg" group-title="FHD", GLOBO TV ANHANGUERA FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/7468
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/rede_globo.jpg" group-title="FHD", GLOBO TV MIRANTE FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/7466
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/tv_morena.jpg" group-title="FHD", GLOBO TV MORENA FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/7465
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/rede_globo.jpg" group-title="FHD", GLOBO VERDES MARES FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/7507
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/gloob_br.jpg" group-title="FHD", GLOOB FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/7505
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/gnt_brasil.jpg" group-title="FHD", GNT FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/7504
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/hbo_family_br.jpg" group-title="FHD", HBO FAMILY FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/7503
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/OFFHD.jpg" group-title="FHD", OFF FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/7523
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/tcm_classic_entertainment_br.jpg" group-title="FHD", TCM FHD H265
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/7510
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/CNNBRASIL.JPG" group-title="FHD", CNN BRASIL FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/7559
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/tv_morena.jpg" group-title="FHD", GLOBO TV MORENA FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/7560
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/rede_globo.jpg" group-title="FHD", TV RIO SUL FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/7564
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/HBOXTREME.JPG" group-title="FHD", HBO XTREME FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/7571
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/rede_globo.jpg" group-title="FHD", GLOBO TV LIBERAL FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/7572
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/fish_tv_br.jpg" group-title="Esportes", FISH TV FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/7574
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/CNNESPANHOL.JPG" group-title="FHD", CNN ESPANHOL FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/7576
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/FOXNEWS.JPG" group-title="FHD", FOX NEWS FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/7577
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/CNNINTERNACIONAL.JPG" group-title="FHD", CNN INTERNACIONAL FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/7579
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/sbt_br.jpg" group-title="FHD", SBT TV ARATU BAHIA FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/7582
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/rede_record_africa.jpg" group-title="FHD", RECORD BAHIA FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/7583
+
+#EXTINF:-1 tvg-logo="http://miuiboxforum.com.br/ond/IMG/LOGOS/band_manaus.jpg" group-title="FHD", BAND RECIFE TV TRIBUNA FHD
+http://satv.itvhotline.info:8080/B2A459FDD6AB/B2A459FDD6AB/7584
 
 
 
